@@ -31,7 +31,6 @@ class Diff4Humans {
 
         return result;
     }
-
 }
 
 /*
